@@ -1,6 +1,6 @@
 ## About inliven :alien:
 
-Behind the alias inliven is Caroline. I'm 32 years old and I live in the middle of the woods with rescue-cats. I'm studying to become a webdeveloper and my interests beside that are biking, spending time in the woods, photography and personal development. 
+Behind the alias inliven is Caroline. I'm 32 years old and I live _in the middle of the woods_ with rescue-cats. I'm studying to become a webdeveloper and my interests beside that are biking, spending time in the woods, photography and personal development. :sparkles:
 
 
 <!--
